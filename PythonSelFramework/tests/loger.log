@@ -1,0 +1,218 @@
+2022-08-08 17:18:22,254 :INFO : test_formsubmission :Enter first name :Praful
+2022-08-08 17:18:22,824 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-08 17:18:23,041 :INFO : test_formsubmission :Enter first name :Rahul
+2022-08-08 17:18:23,041 :INFO : test_formsubmission :Enter first name :Rahul
+2022-08-08 17:18:23,475 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-08 17:18:23,475 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-08 17:19:19,612 :INFO : test_formsubmission :Enter first name :Praful
+2022-08-08 17:19:20,151 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-08 17:19:20,345 :INFO : test_formsubmission :Enter first name :Rahul
+2022-08-08 17:19:20,345 :INFO : test_formsubmission :Enter first name :Rahul
+2022-08-08 17:19:20,777 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-08 17:19:20,777 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-08 17:23:14,584 :INFO : test_formsubmission :Enter first name :Praful
+2022-08-08 17:23:15,153 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-08 17:23:15,350 :INFO : test_formsubmission :Enter first name :Rahul
+2022-08-08 17:23:15,350 :INFO : test_formsubmission :Enter first name :Rahul
+2022-08-08 17:23:15,799 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-08 17:23:15,799 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-08 17:23:20,421 :INFO : test_framework :getting all the card title
+2022-08-08 17:23:23,464 :INFO : test_framework :iphone X
+2022-08-08 17:23:23,483 :INFO : test_framework :Samsung Note 8
+2022-08-08 17:23:23,503 :INFO : test_framework :Nokia Edge
+2022-08-08 17:23:23,522 :INFO : test_framework :Blackberry
+2022-08-08 17:23:23,818 :INFO : test_framework :Entering country name as ind
+2022-08-08 17:23:29,636 :INFO : test_framework :success message×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-08-09 14:44:49,161 :INFO : test_formsubmission :Enter first name :Praful
+2022-08-09 14:44:49,784 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-09 14:44:50,025 :INFO : test_formsubmission :Enter first name :Rahul
+2022-08-09 14:44:50,025 :INFO : test_formsubmission :Enter first name :Rahul
+2022-08-09 14:44:50,503 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-09 14:44:50,503 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-09 14:44:56,194 :INFO : test_framework :getting all the card title
+2022-08-09 14:44:59,246 :INFO : test_framework :iphone X
+2022-08-09 14:44:59,267 :INFO : test_framework :Samsung Note 8
+2022-08-09 14:44:59,291 :INFO : test_framework :Nokia Edge
+2022-08-09 14:44:59,314 :INFO : test_framework :Blackberry
+2022-08-09 14:44:59,543 :INFO : test_framework :Entering country name as ind
+2022-08-09 14:45:05,322 :INFO : test_framework :success message×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-08-09 14:52:45,538 :INFO : test_formsubmission :Enter first name :Praful
+2022-08-09 14:52:46,101 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-09 14:52:46,346 :INFO : test_formsubmission :Enter first name :Rahul
+2022-08-09 14:52:46,346 :INFO : test_formsubmission :Enter first name :Rahul
+2022-08-09 14:52:46,770 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-09 14:52:46,770 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-09 14:52:51,029 :INFO : test_framework :getting all the card title
+2022-08-09 14:52:54,076 :INFO : test_framework :iphone X
+2022-08-09 14:52:54,098 :INFO : test_framework :Samsung Note 8
+2022-08-09 14:52:54,123 :INFO : test_framework :Nokia Edge
+2022-08-09 14:52:54,147 :INFO : test_framework :Blackberry
+2022-08-09 14:52:54,429 :INFO : test_framework :Entering country name as ind
+2022-08-09 14:52:59,962 :INFO : test_framework :success message×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-08-09 14:57:07,188 :INFO : test_formsubmission :Enter first name :Praful
+2022-08-09 14:57:07,764 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-09 14:57:07,993 :INFO : test_formsubmission :Enter first name :Rahul
+2022-08-09 14:57:07,993 :INFO : test_formsubmission :Enter first name :Rahul
+2022-08-09 14:57:08,411 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-09 14:57:08,411 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-09 14:57:12,667 :INFO : test_framework :getting all the card title
+2022-08-09 14:57:15,720 :INFO : test_framework :iphone X
+2022-08-09 14:57:15,744 :INFO : test_framework :Samsung Note 8
+2022-08-09 14:57:15,766 :INFO : test_framework :Nokia Edge
+2022-08-09 14:57:15,789 :INFO : test_framework :Blackberry
+2022-08-09 14:57:16,044 :INFO : test_framework :Entering country name as ind
+2022-08-09 14:57:21,727 :INFO : test_framework :success message×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-08-09 15:40:45,082 :INFO : test_formsubmission :Enter first name :Praful
+2022-08-09 15:40:46,437 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-09 15:40:46,916 :INFO : test_formsubmission :Enter first name :Rahul
+2022-08-09 15:40:46,916 :INFO : test_formsubmission :Enter first name :Rahul
+2022-08-09 15:40:47,511 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-09 15:40:47,511 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-09 15:40:59,833 :INFO : test_framework :getting all the card title
+2022-08-09 15:41:04,068 :INFO : test_framework :iphone X
+2022-08-09 15:41:04,080 :INFO : test_framework :Samsung Note 8
+2022-08-09 15:41:04,090 :INFO : test_framework :Nokia Edge
+2022-08-09 15:41:04,097 :INFO : test_framework :Blackberry
+2022-08-09 15:41:10,007 :INFO : test_framework :Entering country name as ind
+2022-08-09 15:41:16,514 :INFO : test_framework :success message×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-08-09 17:40:17,417 :INFO : test_formsubmission :Enter first name :Praful
+2022-08-09 17:40:19,284 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-09 17:40:19,826 :INFO : test_formsubmission :Enter first name :Rahul
+2022-08-09 17:40:19,826 :INFO : test_formsubmission :Enter first name :Rahul
+2022-08-09 17:40:20,483 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-09 17:40:20,483 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-09 17:40:33,082 :INFO : test_framework :getting all the card title
+2022-08-09 17:40:36,468 :INFO : test_framework :iphone X
+2022-08-09 17:40:36,562 :INFO : test_framework :Samsung Note 8
+2022-08-09 17:40:36,575 :INFO : test_framework :Nokia Edge
+2022-08-09 17:40:36,662 :INFO : test_framework :Blackberry
+2022-08-09 17:40:38,887 :INFO : test_framework :Entering country name as ind
+2022-08-09 17:40:47,086 :INFO : test_framework :success message×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-08-10 14:59:43,895 :INFO : test_formsubmission :Enter first name :Akash
+2022-08-16 16:13:33,124 :INFO : test_formsubmission :Enter first name :Akash
+2022-08-16 16:13:58,209 :INFO : test_framework :getting all the card title
+2022-08-17 12:14:14,654 :INFO : test_formsubmission :Enter first name :Akash
+2022-08-17 12:14:24,726 :INFO : test_framework :getting all the card title
+2022-08-17 12:14:27,853 :INFO : test_framework :iphone X
+2022-08-17 12:14:27,940 :INFO : test_framework :Samsung Note 8
+2022-08-17 12:14:27,992 :INFO : test_framework :Nokia Edge
+2022-08-17 12:14:28,055 :INFO : test_framework :Blackberry
+2022-08-17 12:14:28,533 :INFO : test_framework :Entering country name as ind
+2022-08-17 12:14:34,477 :INFO : test_framework :success message×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-08-17 12:16:47,614 :INFO : test_formsubmission :Enter first name :Praful
+2022-08-17 12:16:48,441 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-17 12:16:48,693 :INFO : test_formsubmission :Enter first name :Rahul
+2022-08-17 12:16:48,693 :INFO : test_formsubmission :Enter first name :Rahul
+2022-08-17 12:16:49,191 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-17 12:16:49,191 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-17 12:16:56,218 :INFO : test_framework :getting all the card title
+2022-08-17 12:16:59,305 :INFO : test_framework :iphone X
+2022-08-17 12:16:59,327 :INFO : test_framework :Samsung Note 8
+2022-08-17 12:16:59,349 :INFO : test_framework :Nokia Edge
+2022-08-17 12:16:59,373 :INFO : test_framework :Blackberry
+2022-08-17 12:16:59,652 :INFO : test_framework :Entering country name as ind
+2022-08-17 12:17:05,271 :INFO : test_framework :success message×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-08-17 12:27:18,420 :INFO : test_formsubmission :Enter first name :Praful
+2022-08-17 12:27:19,634 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-17 12:27:19,993 :INFO : test_formsubmission :Enter first name :Rahul
+2022-08-17 12:27:19,993 :INFO : test_formsubmission :Enter first name :Rahul
+2022-08-17 12:27:21,179 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-17 12:27:21,179 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-17 12:27:56,929 :INFO : test_formsubmission :Enter first name :Praful
+2022-08-17 12:27:57,628 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-17 12:27:57,836 :INFO : test_formsubmission :Enter first name :Rahul
+2022-08-17 12:27:57,836 :INFO : test_formsubmission :Enter first name :Rahul
+2022-08-17 12:27:58,300 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-17 12:27:58,300 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-17 12:28:03,390 :INFO : test_framework :getting all the card title
+2022-08-17 12:28:06,803 :INFO : test_framework :iphone X
+2022-08-17 12:28:06,844 :INFO : test_framework :Samsung Note 8
+2022-08-17 12:28:06,860 :INFO : test_framework :Nokia Edge
+2022-08-17 12:28:06,891 :INFO : test_framework :Blackberry
+2022-08-17 12:28:07,183 :INFO : test_framework :Entering country name as ind
+2022-08-17 12:28:13,025 :INFO : test_framework :success message×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-08-17 12:34:11,608 :INFO : test_framework :getting all the card title
+2022-08-17 12:34:14,679 :INFO : test_framework :iphone X
+2022-08-17 12:34:14,705 :INFO : test_framework :Samsung Note 8
+2022-08-17 12:34:14,732 :INFO : test_framework :Nokia Edge
+2022-08-17 12:34:14,757 :INFO : test_framework :Blackberry
+2022-08-17 12:34:15,014 :INFO : test_framework :Entering country name as ind
+2022-08-17 12:34:20,571 :INFO : test_framework :success message×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-08-17 12:35:36,884 :INFO : test_framework :getting all the card title
+2022-08-17 12:35:39,930 :INFO : test_framework :iphone X
+2022-08-17 12:35:39,958 :INFO : test_framework :Samsung Note 8
+2022-08-17 12:35:39,981 :INFO : test_framework :Nokia Edge
+2022-08-17 12:35:40,008 :INFO : test_framework :Blackberry
+2022-08-17 12:35:40,271 :INFO : test_framework :Entering country name as ind
+2022-08-17 12:35:46,067 :INFO : test_framework :success message×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-08-17 12:37:21,179 :INFO : test_formsubmission :Enter first name :Praful
+2022-08-17 12:37:21,815 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-17 12:37:22,149 :INFO : test_formsubmission :Enter first name :Rahul
+2022-08-17 12:37:22,149 :INFO : test_formsubmission :Enter first name :Rahul
+2022-08-17 12:37:22,856 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-08-17 12:37:22,856 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-20 14:18:05,251 :INFO : test_formsubmission :Enter first name :Praful
+2022-09-20 14:18:08,366 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-20 14:18:09,410 :INFO : test_formsubmission :Enter first name :Rahul
+2022-09-20 14:18:09,410 :INFO : test_formsubmission :Enter first name :Rahul
+2022-09-20 14:18:09,925 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-20 14:18:09,925 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-21 15:18:55,618 :INFO : test_formsubmission :Enter first name :Praful
+2022-09-21 15:18:56,381 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-21 15:18:56,675 :INFO : test_formsubmission :Enter first name :Rahul
+2022-09-21 15:18:56,675 :INFO : test_formsubmission :Enter first name :Rahul
+2022-09-21 15:18:57,105 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-21 15:18:57,105 :INFO : test_formsubmission :×
+Success! The Form has been submitted successfully!.

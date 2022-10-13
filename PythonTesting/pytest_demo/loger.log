@@ -1,0 +1,45 @@
+2022-07-27 11:11:51,968 :INFO : pytest_demo.test_logging :test not executed
+2022-07-27 11:11:51,968 :WARNING : pytest_demo.test_logging :are you sure
+2022-07-27 11:11:51,968 :ERROR : pytest_demo.test_logging :wrong message
+2022-07-27 11:11:51,968 :CRITICAL : pytest_demo.test_logging :critical issue
+2022-07-27 11:13:47,397 :DEBUG : pytest_demo.test_logging :test executed
+2022-07-27 11:13:47,397 :INFO : pytest_demo.test_logging :test not executed
+2022-07-27 11:13:47,397 :WARNING : pytest_demo.test_logging :are you sure
+2022-07-27 11:13:47,397 :ERROR : pytest_demo.test_logging :wrong message
+2022-07-27 11:13:47,397 :CRITICAL : pytest_demo.test_logging :critical issue
+2022-07-27 11:36:13,292 :CRITICAL : pytest_demo.test_logging :critical issue
+2022-07-27 12:59:57,981 :INFO : pytest_demo.baseclass :Praful
+2022-07-27 13:02:40,532 :INFO : pytest_demo.baseclass :Praful
+2022-07-27 13:03:57,657 :INFO : pytest_demo.baseclass :Praful
+2022-07-27 13:09:52,887 :INFO : pytest_demo.baseclass :Praful
+2022-07-27 13:12:44,107 :INFO : pytest_demo.baseclass :Praful
+2022-07-27 13:12:44,122 :CRITICAL : pytest_demo.test_logging :critical issue
+2022-07-27 13:21:20,614 :INFO : pytest_demo.baseclass :Praful
+2022-07-27 13:22:29,557 :INFO : pytest_demo.baseclass :Praful
+2022-07-27 13:23:17,876 :INFO : pytest_demo.baseclass :Hello Praful
+2022-07-27 15:10:28,559 :INFO : pytest_demo.baseclass :Hello Praful
+2022-07-27 15:10:52,269 :INFO : pytest_demo.baseclass :Praful
+2022-07-27 15:15:55,010 :INFO : pytest_demo.baseclass :Praful
+2022-07-27 15:15:55,010 :INFO : pytest_demo.baseclass :Shinde
+2022-07-27 16:28:47,982 :INFO : pytest_demo.baseclass :Hello Praful
+2022-07-27 16:28:48,013 :INFO : pytest_demo.baseclass :Praful
+2022-07-27 16:28:48,013 :INFO : pytest_demo.baseclass :Praful
+2022-07-27 16:28:48,013 :INFO : pytest_demo.baseclass :Shinde
+2022-07-27 16:28:48,013 :INFO : pytest_demo.baseclass :Shinde
+2022-07-27 16:28:48,029 :CRITICAL : pytest_demo.test_logging :critical issue
+2022-07-27 17:25:08,854 :INFO : test_firstdemo :Hello Praful
+2022-07-27 17:25:08,922 :INFO : test_fixturedemo :Praful
+2022-07-27 17:25:08,922 :INFO : test_fixturedemo :Shinde
+2022-07-27 17:25:08,931 :CRITICAL : pytest_demo.test_logging :critical issue
+2022-07-27 17:26:11,957 :INFO : test_fixturedemo :Praful
+2022-07-27 17:26:11,958 :INFO : test_fixturedemo :Shinde
+2022-07-27 17:33:37,854 :INFO : test_fixturedemo :Praful
+2022-07-27 17:33:37,854 :INFO : test_fixturedemo :Shinde
+2022-07-27 17:37:33,300 :INFO : test_fixturedemo :Praful
+2022-07-27 17:37:33,301 :INFO : test_fixturedemo :Shinde
+2022-07-27 17:38:29,680 :INFO : test_fixturedemo :Praful
+2022-07-27 17:38:29,680 :INFO : test_fixturedemo :Shinde
+2022-07-27 17:47:14,475 :INFO : test_firstdemo :Hello Praful
+2022-07-27 17:49:50,790 :INFO : test_firstdemo :Hello Praful
+2022-07-27 17:51:16,452 :INFO : test_fixturedemo :Praful
+2022-07-27 17:51:16,452 :INFO : test_fixturedemo :Shinde
