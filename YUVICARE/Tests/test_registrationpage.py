@@ -29,7 +29,7 @@ class Testregistration:
 
         sel=regpage.selectsalutation()
         dropdown=Select(sel)
-        dropdown.select_by_index(getdata["salutation"])
+        dropdown.select_by_index(getdata["salut"])
 
         regpage.enterfirstname().send_keys(getdata["firstname"])
         regpage.enterlastname().send_keys(getdata["lastname"])
