@@ -23,7 +23,16 @@ class Addclinical:
     checkbox=(By.XPATH,"//input[@value='116']")
     submit=(By.LINK_TEXT,"Submit")
 
-
+    addsitting=(By.XPATH,"//input[@value='Add Sitting']")
+    selectsitting=(By.XPATH,"//span[contains(text(),'Select Sitting')]")
+    sitting=(By.CSS_SELECTOR,".active-result")
+    selectproceduremaster=(By.XPATH,"//span[contains(text(),'Select Procedure Master')]")
+    selectmaster=(By.CSS_SELECTOR,".active-result")
+    selectprocedureclick=(By.XPATH,"//span[contains(text(),'Select procedure')]")
+    procedure=(By.CSS_SELECTOR,".active-result")
+    date=(By.CSS_SELECTOR,"#sittingDate")
+    dateselect=(By.LINK_TEXT,"15")
+    save=(By.CSS_SELECTOR,"button[onclick='showsittingfollowuplist()']")
 
     def enteruserdid(self):
         return self.driver.find_element(*Addclinical.userdid)
@@ -75,3 +84,36 @@ class Addclinical:
 
     def click_go(self):
         return self.driver.find_element(*Addclinical.gobutton)
+
+    def addsittingclick(self):
+        return self.driver.find_element(*Addclinical.addsitting)
+
+    def selectsittingclick(self):
+        return self.driver.find_element(*Addclinical.selectsitting)
+
+    def selectsittingdropdown(self):
+        return self.driver.find_elements(*Addclinical.sitting)
+
+    def selectproceduremasterclick(self):
+        return self.driver.find_element(*Addclinical.selectproceduremaster)
+
+    def selectmasterdropdown(self):
+        return self.driver.find_elements(*Addclinical.selectmaster)
+
+    def clickselectprocedure(self):
+        return self.driver.find_element(*Addclinical.selectprocedureclick)
+
+    def procedureselect(self):
+        return self.driver.find_elements(*Addclinical.procedure)
+
+    def dateclick(self):
+        return self.driver.find_element(*Addclinical.date)
+
+    def selectdate(self):
+        return self.driver.find_element(*Addclinical.dateselect)
+
+    def savebuttonclick(self):
+        return self.driver.find_element(*Addclinical.save)
+
+
+

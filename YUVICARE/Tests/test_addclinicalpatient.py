@@ -64,6 +64,43 @@ class Testaddclinicalpatient:
         depopd.checkboxclick().click()
         time.sleep(3)
         depopd.submit_click().click()
+        time.sleep(3)
+
+        depopd.addsittingclick().click()
+        time.sleep(3)
+
+        # windowslist1 = self.driver.window_handles
+        # self.driver.switch_to.window(windowslist1[2])
+
+        depopd.selectsittingclick().click()
+        sit=depopd.selectsittingdropdown()
+        for sits in sit:
+            if sits.text=="ORTH":
+                sits.click()
+        time.sleep(3)
+        depopd.selectproceduremasterclick().click()
+        time.sleep(3)
+
+        masterlist=depopd.selectmasterdropdown()
+        for master in masterlist:
+            if master.text=="FIXED APPLIANCE":
+                master.click()
+        time.sleep(3)
+        depopd.clickselectprocedure().click()
+        procedure=depopd.procedureselect()
+        for procedures in procedure:
+            if procedures.text=="RECORDS TAKEN":
+                procedures.click()
+        time.sleep(3)
+        depopd.dateclick().click()
+        time.sleep(3)
+        depopd.selectdate().click()
+        time.sleep(3)
+        depopd.savebuttonclick().click()
+        time.sleep(3)
+        alert=self.driver.switch_to.alert
+        alert.accept()
+
 
     @pytest.fixture(params=AddclinicalData.test_addclinical_data)
     def getdata(self, request):
