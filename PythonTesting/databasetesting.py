@@ -11,5 +11,4 @@ for db in mycursor:
 mycursor.execute("select * from apm_admin")
 #mycursor.execute("select * from apm_user")
 for tb in mycursor:
-
     print(tb)

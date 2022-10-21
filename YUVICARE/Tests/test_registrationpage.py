@@ -76,7 +76,9 @@ class Testregistration:
             if department.text =="Orthodontics":
                 department.click()
         regpage.clicksavebutton().click()
+        self.driver.close()
 
     @pytest.fixture(params=RegistrationData.test_registration_data)
     def getdata(self, request):
         return request.param
+

@@ -78,6 +78,7 @@ class Testaddclinicalpatient:
             if sits.text=="ORTH":
                 sits.click()
         time.sleep(3)
+
         depopd.selectproceduremasterclick().click()
         time.sleep(3)
 
