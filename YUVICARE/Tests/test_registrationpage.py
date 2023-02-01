@@ -64,6 +64,7 @@ class Testregistration:
             if types.text =="Self":
                 types.click()
         time.sleep(2)
+
         regpage.selectpayer().click()
         payers=regpage.payerdropdown()
         for payer in payers:

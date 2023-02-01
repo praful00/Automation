@@ -1,5 +1,5 @@
 import mysql.connector
-mydb=mysql.connector.connect(host="117.236.76.142",user="root",password="mydb",database="vspmdemo")
+mydb=mysql.connector.connect(host="yuvicare.com",user="root",password="mariadb8080",database="balgopal")
 print(mydb)
 
 mycursor=mydb.cursor()
@@ -8,7 +8,8 @@ for db in mycursor:
     print(db)
 
 #cursor=mydb.cursor()
-mycursor.execute("select * from apm_admin")
+
+mycursor.execute("select * from apm_user")
 #mycursor.execute("select * from apm_user")
 for tb in mycursor:
     print(tb)

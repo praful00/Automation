@@ -93,6 +93,8 @@ class Testaddclinicalpatient:
             if procedures.text=="RECORDS TAKEN":
                 procedures.click()
         time.sleep(3)
+        depopd.sitnumber().send_keys(getdata["sitnumber"])
+        time.sleep(3)
         depopd.dateclick().click()
         time.sleep(3)
         depopd.selectdate().click()

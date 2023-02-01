@@ -1,18 +1,13 @@
 
-num=3
-
-flag= False
-
-if num>1:
-    for i in range(2,num):
-        if(num%i)==0:
-            flag= True
-            break
-
-if flag:
-    print(num,'is not prime number')
+num=7
+for i in range(2,num):
+    if num % i == 0:
+        print("not prime")
+        break
 else:
-    print(num,'is prime number')
+    print("prime")
+
+
 
 
 

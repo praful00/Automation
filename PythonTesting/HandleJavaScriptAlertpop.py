@@ -20,7 +20,7 @@ alert.accept()
 
 
 
-driver.find_element(By.CSS_SELECTOR,"#name").send_keys(name1)    #click on the cancel button
+driver.find_element(By.CSS_SELECTOR,"#name").send_keys(name1)       #click on the cancel button
 driver.find_element(By.ID, "confirmbtn").click()
 alert1=driver.switch_to.alert
 message=alert1.text

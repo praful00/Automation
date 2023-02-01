@@ -33,6 +33,7 @@ class Addclinical:
     date=(By.CSS_SELECTOR,"#sittingDate")
     dateselect=(By.LINK_TEXT,"15")
     save=(By.CSS_SELECTOR,"button[onclick='showsittingfollowuplist()']")
+    sittingnumber=(By.ID,"sittingno")
 
     def enteruserdid(self):
         return self.driver.find_element(*Addclinical.userdid)
@@ -114,6 +115,9 @@ class Addclinical:
 
     def savebuttonclick(self):
         return self.driver.find_element(*Addclinical.save)
+
+    def sitnumber(self):
+        return self.driver.find_element(*Addclinical.sittingnumber)
 
 
 
