@@ -63,8 +63,12 @@ class Testregistration:
         for types in payertype:
             if types.text =="Self":
                 types.click()
+<<<<<<< HEAD
         time.sleep(2)
 
+=======
+        time.sleep(3)
+>>>>>>> 353a5dc9d7fb2e3435da8c083e03545f79d2f843
         regpage.selectpayer().click()
         payers=regpage.payerdropdown()
         for payer in payers:
