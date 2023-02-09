@@ -26,9 +26,17 @@ class Testpatientsearch:
         time.sleep(3)
         search.enterid().send_keys(getdata["id"])
         search.clicksearchbutton().click()
+        self.driver.close()
+
+
 
 
     @pytest.fixture(params=patientsearchdata.patient_search_data)
     def getdata(self, request):
         return request.param
+
+
+
+
+
 
