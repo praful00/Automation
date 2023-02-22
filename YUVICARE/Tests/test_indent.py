@@ -40,7 +40,7 @@ class Testindent:
                     time.sleep(3)
                     product = indent.select_product_dropdown()
                     for products in product:
-                        if products.text == "POCO - 5796 - Avail. Stock( 1 )":
+                        if products.text == "POCO - 5796 - Avail. Stock( 0 )":
                             products.click()
                     time.sleep(5)
                     indent.enter_qty().send_keys(getdata["quantity"])
@@ -76,7 +76,9 @@ class Testindent:
                     indent.click_deliveredbutton().click()
                     time.sleep(3)
                     indent.click_receivedbutton().click()
+                    break
                 except StaleElementReferenceException as Exception:
+                    print(Exception.msg)
                     indent.click_new().click()
                     time.sleep(3)
                     indent.select_store().click()
@@ -90,7 +92,7 @@ class Testindent:
                     time.sleep(3)
                     product = indent.select_product_dropdown()
                     for products in product:
-                        if products.text == "POCO - 5796 - Avail. Stock( 1 )":
+                        if products.text == "POCO - 5796 - Avail. Stock( 0 )":
                             products.click()
                     time.sleep(5)
                     indent.enter_qty().send_keys(getdata["quantity"])
